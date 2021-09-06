@@ -1,0 +1,15 @@
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+ol {
+    list-style-type: circle;
+}
+
+p {
+    color: blue;
+}
+
+body {
+    background-color: #bebebe;
+    }
